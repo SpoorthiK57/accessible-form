@@ -1,0 +1,44 @@
+.main{
+    margin:auto;
+    display:flex;
+    border: 1px solid black;
+    height:550px;
+    width: 600px;
+    background-color: white;
+    position: relative;
+}
+
+body{
+    background-color: black;
+}
+
+.form{
+    margin:auto;
+    display:flex;
+    border: 1px solid black;
+    height:500px;
+    width: 550px;
+    border-radius: 20px;
+}
+.form1{
+    margin:auto;
+    border: 1px solid black;
+    height:400px;
+    width: 275px;
+    padding: 36px;
+
+}
+.form2{
+    margin:auto;
+    border: 1px solid black;
+    height:400px;
+    width: 275px;
+
+}
+button{
+    display: block;
+}
+
+p{
+    font-size: 14px;
+}
